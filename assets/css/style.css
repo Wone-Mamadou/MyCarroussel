@@ -9,6 +9,7 @@ body{
 h1{
     color: aqua;
     font-size: 50px;
+    letter-spacing: 8px;
 }
 
 .toolbar{
@@ -39,7 +40,7 @@ main{
 }
 
 img{
-    width: 400px;
+    width: 600px;
     background-color: #fff;
     padding: 1em;
     box-shadow: 1px 1px 10px #000;
